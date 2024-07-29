@@ -1,5 +1,5 @@
 {
-  "name": "project-09-countdown_timer",
+  "name": "@aliyapervez/project-09-countdown_timer",
   "version": "1.0.0",
   "description": "This is a CLI based countdown timer app using Typescript, Inquirer and Node.js",
   "main": "index.js",
